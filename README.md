@@ -20,3 +20,8 @@ Write HTML pages and corresponding JavaScript to perform the following:
 
 See sample image to see expected output.
 
+/*
+	KEY: Lets work on better button names next time :-P
+
+	But mostly works ok
+*/
